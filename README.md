@@ -1,4 +1,5 @@
-# PBD
+# An application for records of customers who purchase products from a company
+distributors.
 Database: MySql
 Interface: C# forms
 
